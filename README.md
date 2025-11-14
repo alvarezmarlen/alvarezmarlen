@@ -1,4 +1,32 @@
 ## Hola, soy Marlen 👋
+# 🌐 Proyecto de réplica: START BOOTSTRAP
+
+Este proyecto es una réplica, hecho como práctica en clase de desarrollo web.
+
+---
+
+## 📚 Tecnologías usadas
+- HTML  
+- CSS  
+
+
+---
+
+## 🖥️ Descripción del proyecto
+- Se replicaron las secciones principales del sitio original: header, navegación, contenido y footer.  
+ 
+
+---
+
+## 🚀 Cómo ver el proyecto
+- Código fuente: puedes explorarlo en este repositorio
+
+---
+
+## ✏️ Aprendizajes
+- Practicar maquetado HTML y CSS  
+- Manejo de repositorios 
+
 
 <!--
 **alvarezmarlen/alvarezmarlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
